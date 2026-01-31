@@ -20,10 +20,10 @@ This repository contains a Power BI dashboard and supporting dataset that analyz
 - Pet Care.
 ### State-wise Sales Leaders:
 - Uttar Pradesh, Maharashtra, Karnataka, Madhya Pradesh, Kerala, Jharkhand, Uttarakhand, Rajasthan, Punjab, Telangana.
-📈 Insights & Business Value
+### 📈 Insights & Business Value
 - Targeted Marketing: Focus campaigns on 26–35 age group and female customers.
 - Regional Strategy: Strengthen distribution in Central and Southern zones.
 - Product Prioritization: Stock and promote household items and toys during festive seasons.
-🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 - Power BI for dashboarding.
 - Excel/CSV for raw data.
