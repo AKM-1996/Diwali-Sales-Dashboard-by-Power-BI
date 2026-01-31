@@ -1,6 +1,6 @@
-#🪔 Diwali Sales Analysis Dashboard
+# 🪔 Diwali Sales Analysis Dashboard
 
-##📌 Overview
+## 📌 Overview
 This repository contains a Power BI dashboard and supporting dataset that analyze Diwali sales performance across demographics, regions, and product categories. The goal is to uncover consumer behavior patterns and provide actionable insights for business decision-making.
 📊 Key Features
 ### Total Orders & Sales:
